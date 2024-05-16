@@ -13,7 +13,7 @@ class WebScraper:
         self.token = "7048154629:AAEEisK6mxHwf6bHW36upbuspupwANyRbY4" # config
         self.chat_id = "-1002007522363" # config
         self.url_API = "https://blaze1.space/api/roulette_games/recent"
-        self.link = "(blaze1.space/r/0aJYR6"
+        self.link = "[Clique aqui!](blaze1.space/r/0aJYR6)"
         self.protection = True
         self.gales = 2
         self.win_results = 0
